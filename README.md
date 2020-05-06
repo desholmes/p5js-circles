@@ -1,6 +1,10 @@
 # P5.js Circles
 
-Generative circle artwork created with [P5.js](https://p5js.org/). A hosted version can be seen at: [tbc](...).
+Generative circle artwork created with [P5.js](https://p5js.org/). A hosted version can be [seen here](https://dholmes.co.uk/p5js-circles/dist/).
+
+https://shravan-kuchkula.github.io/p5js-sketches/earthquakes/
+
+https://desholmes.github.io/p5js-circles/dist
 
 This project uses:
 
