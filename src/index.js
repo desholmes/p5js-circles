@@ -1,6 +1,5 @@
-import p5 from 'p5';
+import p5 from "p5";
 
-import sketch from './sketch';
-import './index.css';
+import sketch from "./sketch";
 
 new p5(sketch);

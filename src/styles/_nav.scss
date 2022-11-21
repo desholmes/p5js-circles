@@ -1,0 +1,24 @@
+nav {
+  position: fixed;
+  z-index: 10;
+  ul {
+    background-color: transparent;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      a,
+      a:visited {
+        font-family: sans-serif;
+        color: #fff;
+        border-bottom-right-radius: 0.75rem;
+        font-size: 1em;
+        display: block;
+        padding: 0.55rem 0.55rem;
+        text-decoration: none;
+        background-color: #000;
+        box-shadow: 0 0.15em 0.23em 0 rgb(0 0 0 / 50%);
+      }
+    }
+  }
+}

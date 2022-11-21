@@ -1,27 +1,32 @@
 {
   "name": "p5js-circles",
   "version": "0.1.0",
-  "main": "src/index.js",
   "scripts": {
-    "start": "webpack-dev-server",
-    "build": "npm run clean && webpack -p",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf ./dist/*",
+    "start": "parcel ./src/index.html",
+    "build": "npm run prettier-lint-fix && npm run clean && parcel build ./src/*.html && cp ./src/p5js-circles.png ./dist/p5js-circles.png",
+    "lint": "eslint --max-warnings=0 --ext=js src",
+    "lint-fix": "eslint --max-warnings=0 --fix --ext=js src",
+    "prettier": "prettier --check ./src",
+    "prettier-fix": "prettier --write ./src",
+    "prettier-lint-fix": "npm run prettier-fix && npm run lint-fix"
   },
-  "browserslist": "defaults",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desholmes/p5js-circles"
+  },
+  "author": "Des Holmes https://github.com/desholmes",
+  "license": "MIT",
   "dependencies": {
-    "p5": "^1.0.0"
+    "p5": "1.5.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.7",
-    "@babel/preset-env": "^7.8.7",
-    "babel-loader": "^8.0.6",
-    "copy-webpack-plugin": "^5.1.1",
-    "css-loader": "^3.5.3",
-    "dat.gui": "^0.7.7",
-    "html-webpack-plugin": "^3.2.0",
-    "style-loader": "^1.2.1",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "@parcel/transformer-sass": "2.8.0",
+    "dat.gui": "0.7.9",
+    "eslint": "8.28.0",
+    "eslint-config-p5js": "1.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "parcel": "2.8.0",
+    "prettier": "2.7.1"
   }
 }
