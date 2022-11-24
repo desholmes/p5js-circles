@@ -35,7 +35,8 @@ This project uses:
 ### Production Build
 
 1. Complete the 'Getting Started > Development' section
-1. `npm run build`: Builds a production build to `./dist`
+2. `npm run build`: Builds a production build to `./dist`
+3. Publish your repo on [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ## Commands
 
