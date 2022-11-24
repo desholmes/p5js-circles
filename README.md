@@ -1,6 +1,8 @@
-# P5.js Circles
+# P5.js Boilerplate (Circles)
 
-Generative circle artwork created with [P5.js](https://p5js.org/). A hosted version can be [seen here](https://dholmes.co.uk/p5js-circles/dist/).
+![preview](./src/p5js-circles.png)
+
+This repo is a boilerplate for creative coding using the [P5.js](https://p5js.org/). A hosted version can be [seen here](https://dholmes.co.uk/p5js-circles/dist/).
 
 This project uses:
 
@@ -15,9 +17,16 @@ This project uses:
 1. Installation of [git SCM](https://git-scm.com/downloads)
 1. Installation of [node.js v18.12.1](https://nodejs.org/en/)
 
-### Development
+### Create Your GitHub Repo
 
 1. Complete the 'Getting Started > Prerequisites' section
+2. [Create your GitHub Repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+3. [Download this repo as a zip](https://github.com/desholmes/p5js-circles), [initialise and push](https://training.github.com/downloads/github-git-cheat-sheet/): ![download zip](./docs/p5js-circles.download.png)
+4. Follow the 'Getting Started > Development' section to start creating
+
+### Development
+
+1. Complete the 'Getting Started > Create Your GitHub Repo' section
 2. `npm i`: To install the dependencies
 3. `npm start`: To start a local dev server
 4. Visit [http://localhost:1234](http://localhost:1234/) in a browser
@@ -25,8 +34,9 @@ This project uses:
 
 ### Production Build
 
-1. Complete the 'Getting Started > Prerequisites' section
-1. `npm run build`: Builds a production build to `./dist`
+1. Complete the 'Getting Started > Development' section
+2. `npm run build`: Builds a production build to `./dist`
+3. Publish your repo on [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ## Commands
 
@@ -43,4 +53,4 @@ This project uses:
 ## Credits
 
 * [codetocloth reddit post](https://www.reddit.com/r/generative/comments/gc2r54/first_four_cap_designs_generated_every_design/) for the inspiration
-* [Des Holmes: Technical Leadership & Product Development](https://dholmes.co.uk) for creating this repo
+* [Des Holmes: Technical Leadership & Product Development](https://dholmes.co.uk) for creating [desholmes/p5js-circles](https://github.com/desholmes/p5js-circles)
