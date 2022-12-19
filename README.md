@@ -54,3 +54,8 @@ This project uses:
 
 * [codetocloth reddit post](https://www.reddit.com/r/generative/comments/gc2r54/first_four_cap_designs_generated_every_design/) for the inspiration
 * [Des Holmes: Technical Leadership & Product Development](https://dholmes.co.uk) for creating [desholmes/p5js-circles](https://github.com/desholmes/p5js-circles)
+  * [Blog](https://dholmes.co.uk)
+  * [Turn Gloomy January into Genuary with Generative Art](https://dholmes.co.uk/blog/genuary-p5js-boilerplate/)
+  * **Skills & knowledge**: [Technical Leadership](/tags/technical-leadership), [Technical Direction](/tags/technical-direction), [Technical Delivery](/tags/technical-delivery), [Product Development](/tags/product-development), [SaaS](/tags/saas), [DevOps](/tags/devops), [Azure Public Cloud](/skills)
+  * **Job Titles**: [CTO](/tags/cto), [VP Engineering](/tags/vp-engineering), [Head of DevOps](/tags/devops), [Technical Product Owner](/tags/technical-product-owner)
+  * **Example Projects**: [Development standards](/tags/code-quality), [DevOps](/tags/devops), [CI/CD](/tags/ci-cd), [React](/tags/react), [docker](/tags/docker), [Cost Management](/tags/costs)
