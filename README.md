@@ -53,9 +53,9 @@ This project uses:
 ## Credits
 
 * [codetocloth reddit post](https://www.reddit.com/r/generative/comments/gc2r54/first_four_cap_designs_generated_every_design/) for the inspiration
-* [Des Holmes: Technical Leadership & Product Development](https://dholmes.co.uk) for creating [desholmes/p5js-circles](https://github.com/desholmes/p5js-circles)
-  * [Blog](https://dholmes.co.uk)
+* [Des Holmes: Technical Leadership & Product Development](https://dholmes.co.uk/) for creating [desholmes/p5js-circles](https://github.com/desholmes/p5js-circles)
+  * [Blog](https://dholmes.co.uk/)
   * [Turn Gloomy January into Genuary with Generative Art](https://dholmes.co.uk/blog/genuary-p5js-boilerplate/)
-  * **Skills & knowledge**: [Technical Leadership](/tags/technical-leadership), [Technical Direction](/tags/technical-direction), [Technical Delivery](/tags/technical-delivery), [Product Development](/tags/product-development), [SaaS](/tags/saas), [DevOps](/tags/devops), [Azure Public Cloud](/skills)
-  * **Job Titles**: [CTO](/tags/cto), [VP Engineering](/tags/vp-engineering), [Head of DevOps](/tags/devops), [Technical Product Owner](/tags/technical-product-owner)
-  * **Example Projects**: [Development standards](/tags/code-quality), [DevOps](/tags/devops), [CI/CD](/tags/ci-cd), [React](/tags/react), [docker](/tags/docker), [Cost Management](/tags/costs)
+  * **Skills & knowledge**: [Technical Leadership](https://dholmes.co.uk/tags/technical-leadership/), [Technical Direction](https://dholmes.co.uk/tags/technical-direction/), [Technical Delivery](https://dholmes.co.uk/tags/technical-delivery/), [Product Development](https://dholmes.co.uk/tags/product-development/), [SaaS](https://dholmes.co.uk/tags/saas/), [DevOps](https://dholmes.co.uk/tags/devops/), [Azure Public Cloud](https://dholmes.co.uk/skills/)
+  * **Job Titles**: [CTO](https://dholmes.co.uk/tags/cto/), [VP Engineering](https://dholmes.co.uk/tags/vp-engineering/), [Head of DevOps](https://dholmes.co.uk/tags/devops/), [Technical Product Owner](https://dholmes.co.uk/tags/technical-product-owner/)
+  * **Example Projects**: [Development standards](https://dholmes.co.uk/tags/code-quality/), [DevOps](https://dholmes.co.uk/tags/devops/), [CI/CD](https://dholmes.co.uk/tags/ci-cd/), [React](https://dholmes.co.uk/tags/react/), [docker](https://dholmes.co.uk/tags/docker/), [Cost Management](https://dholmes.co.uk/tags/costs/)
